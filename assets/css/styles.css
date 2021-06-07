@@ -1,0 +1,16 @@
+#weather-dash {
+  display: flex;
+  justify-content: space-between;
+}
+#weatherCard {
+  margin-top: 5%;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+body > div.jumbotron.jumbotron-fluid {
+  background: linear-gradient(to bottom, #fcfcfc 10%, #05affc) 100%;
+}
+
+.box-shadow {
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
